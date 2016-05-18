@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="@drawable/tumblr_o3e9tcmeoh1t528n7o1_1280"
+    android:alpha="1"
+    android:focusable="true">
+    <TextView
+        android:text="Wzrost"
+        android:textAppearance="?android:attr/textAppearanceMedium"
+        android:layout_width="62.0dp"
+        android:layout_height="wrap_content"
+        android:id="@+id/textView1"
+        android:textColor="@android:color/white"
+        android:shadowColor="#00ffffff"
+        android:drawingCacheQuality="auto"
+        android:textStyle="bold" />
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="34.0dp"
+        android:inputType="numberDecimal"
+        android:id="@+id/heightText"
+        android:textColor="@android:color/white"
+        android:textStyle="bold" />
+    <TextView
+        android:text="Waga"
+        android:textAppearance="?android:attr/textAppearanceMedium"
+        android:layout_width="49.5dp"
+        android:layout_height="wrap_content"
+        android:id="@+id/textView2"
+        android:textColor="@android:color/white"
+        android:textStyle="bold" />
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="34.0dp"
+        android:inputType="numberDecimal"
+        android:id="@+id/weightText"
+        android:textColor="@android:color/white"
+        android:textStyle="bold" />
+    <TextView
+        android:text="Wiek"
+        android:textAppearance="?android:attr/textAppearanceMedium"
+        android:layout_width="45.0dp"
+        android:layout_height="wrap_content"
+        android:id="@+id/textView3"
+        android:textColor="@android:color/white"
+        android:textStyle="bold" />
+    <EditText
+        android:layout_width="match_parent"
+        android:inputType="numberDecimal"
+        android:layout_height="34.0dp"
+        android:id="@+id/ageText"
+        android:textColor="@android:color/white"
+        android:textStyle="bold" />
+    <TextView
+        android:text="Płeć"
+        android:textAppearance="?android:attr/textAppearanceMedium"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/textView4"
+        android:textColor="@android:color/white"
+        android:textStyle="bold" />
+    <RadioGroup
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/sexRadioGroup">
+        <RadioButton
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:checked="true"
+            android:text="Kobieta"
+            android:id="@+id/womanButton"
+            android:textColor="@android:color/white"
+            android:textStyle="bold" />
+        <RadioButton
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Mężczyzna"
+            android:id="@+id/manButton"
+            android:textColor="@android:color/white"
+            android:textStyle="bold" />
+    </RadioGroup>
+    <TextView
+        android:text="Aktywność fizyczna"
+        android:textAppearance="?android:attr/textAppearanceMedium"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/textView5"
+        android:textColor="@android:color/white"
+        android:textStyle="bold" />
+    <RadioGroup
+        android:minWidth="25px"
+        android:minHeight="25px"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/activityRadioGroup">
+        <RadioButton
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:checked="true"
+            android:id="@+id/lowActivityRadio"
+            android:text="Mała aktywność, siedzący tryb życia"
+            android:textColor="@android:color/white"
+            android:textStyle="bold" />
+        <RadioButton
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Średnia aktywność, 1-2 treningi tygodniowo"
+            android:id="@+id/avarageActivityRadio"
+            android:textColor="@android:color/white"
+            android:textStyle="bold" />
+        <RadioButton
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Duża aktywność fizyczna, treningi regularne"
+            android:id="@+id/highActivityRadio"
+            android:textColor="@android:color/white"
+            android:textStyle="bold" />
+        <RadioButton
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Wyczynowe uprawianie sportu"
+            android:id="@+id/highestActivityRadio"
+            android:textColor="@android:color/white"
+            android:textStyle="bold" />
+        <Button
+            android:text="Oblicz "
+            android:layout_width="match_parent"
+            android:layout_height="37.0dp"
+            android:id="@+id/countButton" />
+    </RadioGroup>
+    <TextView xmlns:tools="http://schemas.android.com/tools"
+        android:text="Twoja podstawowa przemiana materii wynosi:"
+        android:textAppearance="?android:attr/textAppearanceMedium"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/PPMLabel"
+        tools:visibility="invisible"
+        android:textColor="@android:color/white"
+        android:textStyle="bold" />
+    <TextView xmlns:tools="http://schemas.android.com/tools"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/PPMText"
+        tools:visibility="invisible"
+        android:textColor="@android:color/white"
+        android:textStyle="bold" />
+    <TextView xmlns:tools="http://schemas.android.com/tools"
+        android:text="By utrzymać wagę musisz spożywać:"
+        android:textAppearance="?android:attr/textAppearanceMedium"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/calNeedsLabel"
+        tools:visibility="invisible"
+        android:textColor="@android:color/white"
+        android:textStyle="bold" />
+    <TextView xmlns:tools="http://schemas.android.com/tools"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/calNeedsText"
+        tools:visibility="visible"
+        android:textColor="@android:color/white"
+        android:textStyle="bold" />
+</LinearLayout>

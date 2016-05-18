@@ -1,0 +1,129 @@
+ba¿ant pieczony;215;31,9;9,1;0,0
+ba¿ant, surowa pierœ;130;24,9;3,3;0,0
+ba¿ant, surowe miêso ze skór¹;184;22,9;9,1;0,0
+ba¿ant, surowa udko;133;22,1;4,4;0,0
+gêœ, samo miêso;316;30,1;23,0;0,0
+gêœ, tuszka;345;14,7;30,2;0,0
+gêœ, tuszka pieczona;501;16,0;48,1;0,0
+g³uszec;123;18,2;6,0;0,0
+g³uszec pieczony;172;30,3;5,5;0,0
+go³¹b;172;20,1;9,9;0,0
+go³¹b pieczony;233;28,3;13,2;0,0
+indyk, pierœ bez skóry duszona;122;24,1;1,8;0,0
+indyk, pierœ bez skóry pieczona na grillu;123;25,3;1,6;0,0
+indyk, pierœ bez skóry, sma¿ona;135;26,1;2,6;0,0
+indyk, pierœ bez skóry, surowa;88;20,2;1,1;0,0
+indyk, pierœ ze skór¹, duszona;131;24,3;2,6;0,0
+indyk, pierœ ze skór¹, pieczona na grillu;127;24,4;3,2;0,0
+indyk, pierœ ze skórk¹, sma¿ona;199;27,8;9,4;0,0
+indyk, pierœ ze skór¹, surowa;106;15,9;2,5;0,0
+idnyk, podudzie bez skóry, duszone;156;23,1;7,8;0,0
+indyk, podudzie bez skóry, pieczony na grillu;165;24,3;6,4;0,0
+indyk, podudzie bez skóry, sma¿one;189;24,0;9,9;0,0
+idnyk, podudzie bez skóry, surowe;99;17,1;3,4;0,0
+indyk, podudzie se skór¹, duszone;166;22,3;7,3;0,0
+indyk, podudzie ze skór¹, oprószane m¹k¹, sma¿one;174;28,5;6,0;1,9
+indyk, podudzie ze skór¹, pieczone na grillu;211;23,1;13,2;0,0
+indyk, podudzie ze skór¹, sma¿one;313;24,1;24,8;0,0
+indyk, podudzie ze skór¹, surowe;145;16,1;9,2;0,0
+indyk, skóra pieczona;472;14,1;44,9;0,0
+indyk, skóra surowa;422;10,2;42,8;0,0
+indyk, skrzyde³ko bez skóry, duszone;192;24,3;9,8;0,0
+indyk, skrzyde³ko bez skóry, pieczona na grillu;182;27,1;7,0;0,0
+indyk, skrzyde³ko bez skóry, sma¿one;222;26,3;11,9;0,0
+indyk, skrzyde³ko bez skóry, surowe;115;19,0;4,5;0,0
+indyk, skrzyde³ko ze skór¹, duszone;182;23,4;9,6;0,0
+indyk, skrzyde³ko ze skór¹, oprószane m¹k¹, sma¿one;205;27,4;11,3;2,1
+indyk, skrzyde³ko ze skór¹, pieczona na grillu;196;23,3;10,9;0,0
+indyk, skrzyde³ko ze skór¹, sma¿one;347;23,0;29,1;0,0
+indyk, skrzyde³ko ze skór¹, surowe;170;17,2;10,8;0,0
+indyk, tuszka;132;17,2;6,9;0,0
+indyk, tuszka pieczona;255;21,5;18,8;0,0
+indyk, udko bez skóry, duszone;166;27,1;6,0;0,0
+indyk, udko bez skóry, pieczona na grillu;166;27,1;4,5;0,0
+indyk, udko bez skóry, sma¿one;193;29,1;7,2;0,0
+indyk, udko bez skóry, surowe;100;19,2;2,6;0,0
+indyk, udko ze skór¹, duszone;144;27,2;3,3;0,0
+indyk, udko ze skór¹, pieczone na grillu;201;27,0;9,8;0,0
+indyk, udko ze skór¹, sma¿one;280;27,8;18,9;0,0
+indyk, udko ze skór¹, oprószane m¹k¹, sma¿one;188;30,5;6,4;2,1
+indyk, udko ze skór¹, surowe;133;19,0;6,6;0,0
+indyk wêdzony;133;28,4;1,6;0,0
+kabanosy z kurczaka;250;23,1;17,2;0,2
+kaczka, miêso ze skórk¹;343;21,1;28,8;0,0
+kaczka, pierœ surowa;125;20,5;4,4;0,0
+kaczka, samo miêso;194;26,1;11,3;0,0
+kaczka, tuszka;313;15,0;27,1;0,0
+kaczka, tuszka pieczona;399;16,6;35,8;0,0
+kaszanka z kurczaka;209;10,0;11,4;15,9
+kie³basa delikatesowa z kurczaka;111;20,2;3,6;0,2
+kie³basa ja³owcowa z kurczaka;239;19,8;17,5;0,2
+kie³basa kanapkowa z kurczaka;183;12,8;14,1;3,1
+kie³basa mazurska z indyka;133;15,2;7,9;0,2
+kie³basa mortadela z indyka;212;11,3;17,6;0,2
+kie³basa, parówki z indyka;233;12,3;19,7;0,6
+kie³basa, parówki z kurczaka;258;10,3;22,1;4,1
+kie³basa, parówki z kurczaka parzone;265;15,3;18,2;9,7
+kie³basa podlaska z kurczaka;236;21,1;17,2;0,1
+kie³basa podsuszana z kurczaka;166;22,3;8,6;0,0
+kie³basa, serdelki drobiowe;245;14,2;20,3;2,2
+kie³basa szynkowa z indyka;89;18,1;2,2;0,3
+kie³basa szynkowa z kurczaka;17,1;5,1;0,0;0,0
+kura, tuszka;200;19,1;13,1;0,0
+kura, tuszka duszona;350;20,0;27,9;0,0
+kura, tuszka pieczona na grillu;381;21,1;33,0;0,0
+kura, tuszka sma¿ona;431;21,0;37,9;0,0
+kurczak, pierœ bez skóry, duszona;140;27,2;3,2;0,0
+kurczak, pierœ bez skóry pieczona, na grillu;152;29,1;3,0;0,0
+kurczak, pierœ bez skóry, sma¿ona;174;31,2;4,6;0,0
+kurczak, pierœ bez skóry, surowa;100;22,1;1,5;0,0
+kurczak, porcja roso³owa;180;19,2;11,9;0,0
+kurczak, skóra duszona;400;13,0;37,9;0,0
+kurczak, skóra pieczona;499;16,6;47,2;0,0
+kurczak, skóra sma¿ona;520;16,1;49,2;0,0
+kurczak, skóra surowa;290;11,3;38,4;0,0
+kurczak, skrzyde³ko bez skóy, gotowane;188;27,1;7,3;0,0
+kurczak, skrzyde³ko bez skóry, pieczone;855;31,1;8,3;0,0
+kurczak, skrzyde³ko bez skóry, sma¿one;203;30,0;10,0;0,0
+kurczak, skrzyde³ko bez skóry, surowe;122;20,8;3,9;0,0
+kurczak, skrzyde³ko ze skór¹, gotowane;251;23,0;17,0;0,0
+kurczak, skrzyde³ko ze skór¹, oprószone m¹k¹, sma¿one;323;27,2;23,0;2,5
+kurczak, skrzyde³ko ze skór¹, pieczone;300;27,1;19,1;0,0
+kurczak, skrzyde³ko ze skór¹, surowe;221;18,2;15,7;0,0
+kurczak, skrzyde³ko ze skór¹ w cieœcie, sma¿one;325;19,2;22,1;2,6
+kurczak, tuszka;160;19,0;9,1;0,0
+kurczak, tuszka duszona;280;20,3;20,6;0,0
+kurczak, tuszka pieczona na grillu;298;23,0;21,2;0,0
+kurczak, tuszka sma¿ona;250;21,8;26,8;0,0
+kurczak, udko bez skóry, duszone;211;21,8;13,3;0,0
+kurczak, udko bez skóry, pieczona na grillu;220;23,7;13,6;0,0
+kurczak, udko bez skóry, sma¿one;234;25,6;14,9;0,0
+kurczak, udko bez skóry, surowe;127;17,9;7,0;0,0
+kurczak, udko ze skór¹, duszone;201;24,9;11,3;0,0
+kurczak, udko ze skór¹, oprószane m¹k¹, sma¿one;215;25,6;13,0;2,7
+kurcak, udko ze skór¹, pieczone na grillu;211;24,6;12,0;0,0
+kurczak, udko ze skór¹, sma¿one;341;24,1;27,1;0,0
+kurczak, udko ze skór¹, surowe;161;17,3;9,9;0,0
+kurczak wêdzony;165;29,2;5,6;0,0
+kuropatwa surowa;108;22,1;0,9;0,0
+kuropatwa pieczona;213;33,7;7,6;0,0
+pasztet podlaski z kurczaka;230;6,6;21,2;3,7
+pasztet strasburski z gêsich w¹tróbek;292;16,2;23,0;0,0
+pasztet z kurczaka pieczony;213;14,6;14,5;7,2
+perliczka;177;22,5;9,2;0,0
+perliczka pieczona;213;31,8;8,9;0,0
+polêdwica z indyka;106;16,2;4,4;0,1
+polêdwica z piersi kurczaka;97;20,6;1,0;0,8
+przepiórka pieczona;218;37,8;6,9;0,0
+strusie miêso mielone, gotowane;166;28,7;4,4;0,0
+strusie miêso mielone, surowe;135;23,2;4,2;0,0
+szynka delikatesowa z kurczaka;1251;8,7;5,4;0,0
+szynka z indyka;85;17,8;1,4;0,1
+szynka z piersi kurczaka;97;21,4;1,3;0,3
+szynka z udŸca kurczaka;118;17,3;5,4;0,0
+turkawka pieczona;232;3,0;13,6;0,0
+w¹tróbka drobiowa;137;19,9;6,0;0,7
+w¹tróbka drobiowa duszona;185;26,0;8,4;0,2
+w¹tróbka drobiowa gotowana;190;25,6;8,9;0,2
+¿o³¹dki drobiowe;120;18,8;3,9;0,5
+¿o³¹dki drobiowe gotowane;157;27,5;3,9;1,3

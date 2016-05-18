@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@android:color/black">
+    <ImageView
+        android:src="@drawable/calcal"
+        android:layout_width="match_parent"
+        android:layout_height="96.0dp"
+        android:id="@+id/imageView1" />
+    <Button
+        android:text="Kalkulator zapotrzebowania kalorycznego"
+        android:layout_width="match_parent"
+        android:layout_height="106.0dp"
+        android:id="@+id/calcButton" />
+    <Button
+        android:text="Ile kalorii dziś zjadłeś?"
+        android:layout_width="match_parent"
+        android:layout_height="106.0dp"
+        android:id="@+id/productsButton" />
+</LinearLayout>

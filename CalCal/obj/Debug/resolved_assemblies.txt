@@ -1,0 +1,9 @@
+D:\Projekty\CalCal\CalCal\CalCal\obj\Debug\assemblies\CalCal.dll
+D:\Projekty\CalCal\CalCal\CalCal\obj\Debug\assemblies\Mono.Android.dll
+D:\Projekty\CalCal\CalCal\CalCal\obj\Debug\assemblies\mscorlib.dll
+D:\Projekty\CalCal\CalCal\CalCal\obj\Debug\assemblies\System.Core.dll
+D:\Projekty\CalCal\CalCal\CalCal\obj\Debug\assemblies\System.dll
+D:\Projekty\CalCal\CalCal\CalCal\obj\Debug\assemblies\System.Xml.dll
+D:\Projekty\CalCal\CalCal\CalCal\obj\Debug\assemblies\System.Xml.Linq.dll
+D:\Projekty\CalCal\CalCal\CalCal\obj\Debug\assemblies\System.Runtime.Serialization.dll
+D:\Projekty\CalCal\CalCal\CalCal\obj\Debug\assemblies\System.ServiceModel.Internals.dll

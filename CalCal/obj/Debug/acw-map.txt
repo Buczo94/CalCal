@@ -1,0 +1,12 @@
+CalCal.MainActivity, CalCal;md5980b895a0c4d771cf3601eede69e8c73.MainActivity
+CalCal.MainActivity, CalCal, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5980b895a0c4d771cf3601eede69e8c73.MainActivity
+CalCal.MainActivity;md5980b895a0c4d771cf3601eede69e8c73.MainActivity
+calcal.MainActivity;md5980b895a0c4d771cf3601eede69e8c73.MainActivity
+CalCal.CalcCalories, CalCal;md5980b895a0c4d771cf3601eede69e8c73.CalcCalories
+CalCal.CalcCalories, CalCal, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5980b895a0c4d771cf3601eede69e8c73.CalcCalories
+CalCal.CalcCalories;md5980b895a0c4d771cf3601eede69e8c73.CalcCalories
+calcal.CalcCalories;md5980b895a0c4d771cf3601eede69e8c73.CalcCalories
+CalCal.ProductSearch, CalCal;md5980b895a0c4d771cf3601eede69e8c73.ProductSearch
+CalCal.ProductSearch, CalCal, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5980b895a0c4d771cf3601eede69e8c73.ProductSearch
+CalCal.ProductSearch;md5980b895a0c4d771cf3601eede69e8c73.ProductSearch
+calcal.ProductSearch;md5980b895a0c4d771cf3601eede69e8c73.ProductSearch
